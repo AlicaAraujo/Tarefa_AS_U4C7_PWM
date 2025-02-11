@@ -1,4 +1,4 @@
-// Padded and checksummed version of: C:/Users/alici/OneDrive/Documentos/EmbarcaTech/pwm/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: C:/Users/alici/Tarefa_AS_U4C7_PWM/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb
